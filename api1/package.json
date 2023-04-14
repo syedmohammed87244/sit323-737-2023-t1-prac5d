@@ -1,0 +1,22 @@
+{
+  "name": "sit323-737-2023-t1-prac5d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syedmohammed87244/sit323-737-2023-t1-prac5d.git"
+  },
+  "author": "Mohammed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syedmohammed87244/sit323-737-2023-t1-prac5d/issues"
+  },
+  "homepage": "https://github.com/syedmohammed87244/sit323-737-2023-t1-prac5d#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
